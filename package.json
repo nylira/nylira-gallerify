@@ -1,6 +1,6 @@
 {
   "name": "nylira-gallerify",
-  "version": "1.0.1",
+  "version": "0.1.2",
   "description": "Turn a directory of images (jpg, png, etc) and animations (gif, webm) into an HTML file",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
